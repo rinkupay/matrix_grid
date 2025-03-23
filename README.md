@@ -12,3 +12,9 @@ Tracking Click Order: The sequence of clicks is recorded.
 Final Box Trigger: When the last (ninth) box is clicked, all previously clicked boxes transition to orange in the exact order they were originally clicked.
 
 This functionality introduces an engaging visual effect while demonstrating event handling, state management, and sequential updates in a React-based UI.
+
+
+
+LINKS:
+GitHub Links : https://github.com/rinkupay/matrix_grid
+Video Links : https://drive.google.com/file/d/1XoI29H8fRM-N_ejJL5lHuqnEaHjNIx6y/view?usp=drive_link
